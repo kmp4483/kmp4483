@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Stack
+
+- React.js
+- Node.js
+- React-Native
+- Android-Studio
+
+- 
 <a href="https://instagram.com/re_min_iscent27?igshid=OGQ5ZDc2ODk2ZA==">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
