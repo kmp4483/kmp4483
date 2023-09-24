@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## Stack
 
-- React.js
-- Node.js
-- React-Native
-- Android-Studio
+- Python
+- C
+- Rust
+- MySQL
 
 - 
 <a href="https://instagram.com/re_min_iscent27?igshid=OGQ5ZDc2ODk2ZA==">
