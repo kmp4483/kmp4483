@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
 
+경북대학교 컴퓨터학부 인공지능컴퓨팅전공 23학번 박경민입니다. 
 
 ## Stack
 
