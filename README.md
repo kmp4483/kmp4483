@@ -6,7 +6,7 @@
 
 - Python
 - C
-- Rust
+- R
 - MySQL
 
 
